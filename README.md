@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm G. S. Subash Chandra Bose</h1>
+<h1 align="center">Hey there 👋, I'm G S Subash Chandra Bose</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | AI & Data Enthusiast | Builder @ zygn</h3>
 
 ---
