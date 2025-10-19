@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm G S Subash Chandra Bose</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | AI & Data Enthusiast | Builder @ zygn</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | AI & Data Enthusiast | Builder @FinTrack</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 🌱 I’m a **Computer Science Engineering** student passionate about building impactful digital products.  
 💡 I love creating **modern web apps**, **AI-driven tools**, and experimenting with **data-driven projects**.  
 ⚙️ Currently working on:  
-&nbsp;&nbsp;&nbsp;• A **Local Business Directory App** 📍  
+&nbsp;&nbsp;&nbsp;• A **Greenstack AI(translating code efficiency into tangible environmental impact metrics.)** 📍  
 &nbsp;&nbsp;&nbsp;• An **Air Quality Prediction System** 🌫️ (PM2.5 Forecast + Reanalysis + Alerts)  
 &nbsp;&nbsp;&nbsp;• A **Finance Tracker (FinTrack)** 💸 — PWA for expense management  
 🧠 Learning **Flask**, **React**, and **Machine Learning pipelines**  
