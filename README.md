@@ -117,13 +117,13 @@ A Progressive Web App (PWA) for expense and income tracking.
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:gssubashchandrabose@gmail.com">
+  <a href="mailto:subashgopi2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/g-s-subash-chandra-bose/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://zygn.in/">
+  <a href="https://portfoliosub.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
