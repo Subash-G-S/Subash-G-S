@@ -65,11 +65,11 @@
 
 ### 💼 Projects  
 
-#### 🏙️ [Local Business Directory App](https://github.com/yourusername/local-business-directory)
-A full-stack web app that helps users explore and support nearby local businesses.  
-- 🌐 **Tech:** React, Firebase, Tailwind, PWA  
-- 📍 Real-time listings, search filters, and offline access  
-- 💡 Goal: Boost visibility for local shops  
+#### 🏙️ [Greenstack AI](https://github.com/Subash-G-S/GreenStack)
+GreenStack AI is an intelligent system that evaluates the environmental impact of your code — estimating CO₂ emissions, energy usage, water consumption, and hardware strain caused by algorithmic inefficiencies. 
+- 🌐 **Tech:** React, Multer, Tailwind, Express.js  
+- 📍 Environmental impact prediction directly from source code.  
+- 💡 Goal: Reduce environment impact by coding efficiently. 
 
 #### 🌫️ [Air Quality Prediction System](https://github.com/yourusername/air-quality-predictor)
 Predicts PM2.5 levels using AOD, meteorological, and reanalysis data.  
