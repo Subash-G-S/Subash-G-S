@@ -96,21 +96,21 @@ A Progressive Web App (PWA) for expense and income tracking.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashChandraBose-GS&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-G-S&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubashChandraBose-GS&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Subash-G-S&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubashChandraBose-GS&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subash-G-S&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
