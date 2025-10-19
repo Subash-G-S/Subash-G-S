@@ -71,13 +71,13 @@ GreenStack AI is an intelligent system that evaluates the environmental impact o
 - 📍 Environmental impact prediction directly from source code.  
 - 💡 Goal: Reduce environment impact by coding efficiently. 
 
-#### 🌫️ [Air Quality Prediction System](https://github.com/yourusername/air-quality-predictor)
+#### 🌫️ [Air Quality Prediction System]
 Predicts PM2.5 levels using AOD, meteorological, and reanalysis data.  
 - ⚙️ **Tech:** Flask, Python, Pandas, Scikit-learn  
 - 🧠 ML model predicts next 3-day air quality  
 - 📊 Integrated weather + alert dashboard  
 
-#### 💸 [FinTrack](https://github.com/yourusername/fintrack)
+#### 💸 [FinTrack](https://github.com/Subash-G-S/moneytrack)
 A Progressive Web App (PWA) for expense and income tracking.  
 - 💻 **Tech:** React, Firebase Auth, Firestore, Tailwind  
 - 📱 Add to Home Screen (Installable App)  
@@ -88,11 +88,11 @@ A Progressive Web App (PWA) for expense and income tracking.
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubashChandraBose-GS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subash-G-S&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashChandraBose-GS&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subash-G-S&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
