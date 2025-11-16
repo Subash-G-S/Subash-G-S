@@ -120,7 +120,7 @@ A Progressive Web App (PWA) for expense and income tracking.
   <a href="mailto:subashgopi2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/g-s-subash-chandra-bose/">
+  <a href="https://www.linkedin.com/in/subash-g-s-bb214532b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://portfoliosub.vercel.app/">
